@@ -1,0 +1,34 @@
+[package]
+name = "rust-study"
+version = "0.1.0"
+edition = "2021"
+
+[[example]]
+name = "ch01_variables"
+
+[[example]]
+name = "ch02_ownership"
+
+[[example]]
+name = "ch03_references"
+
+[[example]]
+name = "ch04_slices"
+
+[[example]]
+name = "ch05_structs"
+
+[[example]]
+name = "ch06_enums"
+
+[[example]]
+name = "ch07_error_handling"
+
+[[example]]
+name = "ch08_generics_traits"
+
+[[example]]
+name = "ch09_lifetimes"
+
+[[example]]
+name = "ch10_closures_iterators"

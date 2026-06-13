@@ -1,0 +1,11 @@
+/* 코드 블록 폰트 */
+code {
+    font-family: 'JetBrains Mono', 'Fira Code', 'D2Coding', monospace;
+}
+
+/* 인라인 코드 강조 */
+.content p code {
+    background-color: rgba(100, 100, 100, 0.15);
+    border-radius: 3px;
+    padding: 1px 4px;
+}

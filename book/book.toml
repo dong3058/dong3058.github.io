@@ -1,0 +1,16 @@
+[book]
+title = "Rust 공부 기록"
+authors = ["dong3058"]
+language = "ko"
+src = "src"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/dong3058/dong3058.github.io"
+edit-url-template = "https://github.com/dong3058/dong3058.github.io/edit/main/book/src/{path}"
+additional-css = ["custom.css"]
+
+[output.html.playground]
+editable = true
+runnable = true
