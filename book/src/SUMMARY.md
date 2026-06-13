@@ -7,6 +7,7 @@
 # 기본
 
 - [변수와 타입](./ch01_variables.md)
+- [함수](./ch11_functions.md)
 - [소유권](./ch02_ownership.md)
 - [참조와 빌림](./ch03_references.md)
 - [슬라이스](./ch04_slices.md)

@@ -32,3 +32,6 @@ name = "ch09_lifetimes"
 
 [[example]]
 name = "ch10_closures_iterators"
+
+[[example]]
+name = "ch11_functions"
