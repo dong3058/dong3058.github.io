@@ -18,7 +18,7 @@ fn main() {
 
 ## 가변 참조
 
-값을 수정하려면 `&mut`을 사용한다.
+값을 수정하려면 `&mut`을 사용한다.-->가변 변수에만가능.
 
 ```rust
 fn append(s: &mut String) {
